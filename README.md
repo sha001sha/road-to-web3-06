@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 scaffold-eth | 🏰 BuidlGuidla
 
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
 
